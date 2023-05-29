@@ -1,0 +1,53 @@
+
+.chico{
+    width: 510px;
+    height: 80px;
+    border: rgb(178, 173, 173) 4px solid;
+    
+
+}
+.grande{
+ 
+    width: 510px;
+    height: 130px;
+    border: rgb(178, 173, 173) 4px solid;
+   
+  }
+.container{
+    border: rgb(178, 173, 173) 4px solid;
+    width: 100%;
+    height: 100%;
+    border-bottom: none;
+    border-top: none;
+    position: relative;
+    display:flex;
+    flex-direction: row;
+
+     
+}
+
+.mediano{
+   
+    width: 250px;
+    height: 130px;
+    border: rgb(178, 173, 173) 4px solid;
+    
+    position:relative;
+    
+   
+}
+
+ .azul{
+    background:rgb(167,232,255);
+} 
+/*.margin-derecho{
+    
+    position: relative;
+    left: 250px;
+   
+}*/
+/*.margin-bajo{
+
+    position: relative;
+    top: 150px;
+}*/
